@@ -1,1 +1,1 @@
-30th August ==> 
+30th August ==> Intro, Syntax, data, data-types, variables, print statements, semi-colon, abstraction, console, Rules of variables, Compiler, Naming conventions for variables (camel-case).
